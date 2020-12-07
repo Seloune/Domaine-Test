@@ -1,0 +1,22 @@
+.body {
+  flex-direction: column;
+}
+
+.sidebarre {
+  align-items: center;
+}
+
+.sidebarre a {
+  max-width: 100%;
+  padding: 10px;
+}
+
+.content {
+  justify-content: center;
+}
+
+.content span {
+  height: 10rem;
+  margin: 0.5rem;
+  flex-basis: 10rem;
+}
